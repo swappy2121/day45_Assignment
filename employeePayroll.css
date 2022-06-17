@@ -136,8 +136,8 @@ td img{
     cursor: pointer;
     width: 30px; 
 }
-.dept-label{
-    background-color: #e9fee9;
+.dept-level{
+    background-color: #13a813;
     border-radius: 40%;
     width:fit-content;
     padding: 1px 7px;
